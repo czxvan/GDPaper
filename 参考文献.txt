@@ -1,0 +1,20 @@
+[1]	Miller B P, Fredriksen L, So B. An empirical study of the reliability of UNIX utilities[J]. Communications of the ACM, 1990, 33(12): 32–44.
+[2]	Zalewski M. American Fuzzy Lop[J]. 2016.
+[3]	Böhme M, Pham V-T, Roychoudhury A. Coverage-based Greybox Fuzzing as Markov Chain[A]. Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security[C]. Vienna Austria: ACM, 2016: 1032–1043.
+[4]	Lyu C, Ji S, Zhang C, et al. MOPT: Optimized Mutation Scheduling for Fuzzers[J].
+[5]	Circumventing Fuzzing Roadblocks with Compiler Transformations[J]. 2016.
+[6]	Aschermann C, Schumilo S, Blazytko T, et al. REDQUEEN: Fuzzing with Input-to-State Correspondence[A]. Proceedings 2019 Network and Distributed System Security Symposium[C]. San Diego, CA: Internet Society, 2019.
+[7]	Schumilo S, Aschermann C, Gawlik R, et al. kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels[J].
+[8]	Michael Eddington. Peach fuzzing platform[J].
+[9]	Pham V-T, Boehme M, Santosa A E, et al. Smart Greybox Fuzzing[J]. IEEE Transactions on Software Engineering, 2020: 1–1.
+[10]	Fioraldi A, Maier D, Eißfeldt H, et al. AFL++: Combining Incremental Steps of Fuzzing Research[J].
+[11]	Fioraldi A, Maier D C, Zhang D, et al. LibAFL: A Framework to Build Modular and Reusable Fuzzers[A]. Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security[C]. New York, NY, USA: Association for Computing Machinery, 2022: 1051–1065.
+[12]	Pham V-T, Bohme M, Roychoudhury A. AFLNET: A Greybox Fuzzer for Network Protocols[A]. 2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)[C]. Porto, Portugal: IEEE, 2020: 460–465.
+[13]	Andronidis A, Cadar C. SnapFuzz: high-throughput fuzzing of network applications[A]. Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis[C]. Virtual South Korea: ACM, 2022: 340–351.
+[14]	Hertz J, Newsham T. Project Triforce: Run AFL On Everything[J].
+[15]	Bellard F. QEMU, a Fast and Portable Dynamic Translator[J]. 2005.
+[16]	Zheng Y, Davanian A, Yin H, et al. {FIRM-AFL}: {High-Throughput} Greybox Fuzzing of {IoT} Firmware via Augmented Process Emulation[A]. 2019: 1099–1114.
+[17]	Zheng Y, Li Y, Zhang C, et al. Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation[A]. Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis[C]. Virtual South Korea: ACM, 2022: 417–428.
+[18]	Meng R, Mirchev M, Böhme M, et al. Large Language Model guided Protocol Fuzzing[A]. Proceedings 2024 Network and Distributed System Security Symposium[C]. San Diego, CA, USA: Internet Society, 2024.
+[19]	Henderson A, Prakash A, Yan L K, et al. Make it work, make it right, make it fast: building a platform-neutral whole-system dynamic binary analysis platform[A]. Proceedings of the 2014 International Symposium on Software Testing and Analysis[C]. San Jose CA USA: ACM, 2014: 248–258.
+[20]	Dovgalyuk P, Fursova N, Vasiliev I, et al. QEMU-based framework for non-intrusive virtual machine instrumentation and introspection[A]. Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering[C]. Paderborn Germany: ACM, 2017: 944–948.
